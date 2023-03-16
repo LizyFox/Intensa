@@ -14,4 +14,4 @@ Intensa test task for creating an app that changes URLs.
   - ввести любой URL;
   - наслаждаться работой сервиса :) (обязательный пункт).
 
-Доступы к БД: логин - root, пароль - пустая строка, сервер - localhost.
+Доступы к БД (phpMyAdmin): логин - root, пароль - пустая строка, сервер - localhost.
