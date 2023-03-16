@@ -1,2 +1,17 @@
-# Intensa
-Intensa test task for creating an app that changes URLs
+# changeurl
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Легенды+потрясности!)](https://git.io/typing-svg)
+Intensa test task for creating an app that changes URLs.
+
+Разработан сервис сокращения ссылок.
+На главной странице находится форма для ввода URL и кнопка "Сократить". При нажатии на кнопку пользователь получает короткий URL, при клике на который просиходит редирект на исходный URL.
+Сервис реализован на PHP c хранением данных в базе данных (mysql).
+Также реализована валидация URL.
+
+Для начала работы:
+  - скачать файлы;
+  - открыть с помощью OpenServer;
+  - ввести в адресной строке changeurl.ru;
+  - ввести любой URL;
+  - наслаждаться работой сервиса :) (обязательный пункт).
+
+Доступы к БД: логин - root, пароль - пустая строка, сервер - localhost.
