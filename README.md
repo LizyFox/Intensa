@@ -1,5 +1,4 @@
 # changeurl
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Легенды+потрясности!)](https://git.io/typing-svg)
 Intensa test task for creating an app that changes URLs.
 
 Разработан сервис сокращения ссылок.
